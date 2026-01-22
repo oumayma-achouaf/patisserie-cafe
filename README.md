@@ -49,4 +49,4 @@ You can find the source code here: [GitHub](https://github.com/oumayma-achouaf/p
 
 **Oumayma Achouaf**  
 Frontend Developer  
-[GitHub](https://github.com/oumayma-achouaf) | [LinkedIn](#) | [Email](#)
+[GitHub](https://github.com/oumayma-achouaf) | [Email](oumaymaachouaf6#gmail.com)
